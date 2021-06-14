@@ -4,7 +4,7 @@ Wii Shop Channel dumb server. Instructions on PS5GAMERS channel.
 
 # Installing things
 
-Before opening the host you need to install some stuff (AuthSDK and WAMServing). If you want an optimal server also install Dlophin
+Before opening the host you need to install some stuff (Evto , AuthSDK and WAMServing). If you want an optimal server also install Dlophin
 
 
 # Editing authorized.wiimsk
