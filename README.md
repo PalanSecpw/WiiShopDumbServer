@@ -1,5 +1,5 @@
 # WiiShopDumbServer
-Wii Shop Channel dumb server.
+Wii Shop Channel dumb server. Instructions on PS5GAMERS channel.
 
 
 # Installing things
